@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaikYams97
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Full Stack Web Development Using MERN Technologies. 
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me shaikowais47@gmail.com
 
 <!---
