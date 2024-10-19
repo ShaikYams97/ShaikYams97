@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaik Yams!  
 
-🚀 **Jr. DevOps Engineer @ ProCorp** | ☁️ **AWS Solutions Architect Certified** | 💻 **Full MERN Stack Developer** | 🌐 **Passionate about Cloud & Automation**  
+🚀 **Jr. DevOps Engineer @ ProCorp** | ☁️ **AWS Solutions Architect** | 💻 **Full MERN Stack Developer** | 🌐 **Passionate about Cloud & Automation**  
 
 ### 👨‍💻 About Me  
 - 🎯 **Current Role**: Jr. DevOps Engineer at **ProCorp**  
