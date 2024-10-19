@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Shaik Yams!  
 
-🚀 **Jr. DevOps Engineer @ ProCorp** | ☁️ **AWS Solutions Architect** | 💻 **Full MERN Stack Developer** | 🌐 **Passionate about Cloud & Automation**  
+🚀 **Jr. DevOps Engineer @ ProCorp** | ☁️ **AWS Solutions Architect Certified** | 💻 **Full MERN Stack Developer** | 🌐 **Passionate about Cloud & Automation**  
+
+---
 
 ### 👨‍💻 About Me  
 - 🎯 **Current Role**: Jr. DevOps Engineer at **ProCorp**  
@@ -9,6 +11,8 @@
 - ☁️ **Cloud Enthusiast**: Strong foundation in AWS services and cloud solutions.  
 - 🇮🇳 **Location**: India  
 - 🧑‍🎓 **Age**: 23  
+
+---
 
 ### 💼 What I Do  
 #### DevOps  
@@ -24,12 +28,18 @@
 - **Database**: Working with **MongoDB** for efficient data management.  
 - **Version Control**: Using **Git** and **GitHub** for collaborative development.  
 
+---
+
 ### 🌱 Currently Exploring  
 - **Advanced Kubernetes**: Diving deeper into Helm and Kubernetes configurations.  
-- **DevSecOps**: Strengthening CI/CD pipelines with security tools.   
+- **DevSecOps**: Strengthening CI/CD pipelines with security tools.    
+
+---
 
 ### 📫 Get in Touch  
 - **Email**: shaikowais47@gmail.com
+  
+---
 
 Feel free to check out my projects and collaborate with me! Let's build something awesome together 🚀✨  
 
