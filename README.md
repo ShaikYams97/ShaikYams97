@@ -29,19 +29,6 @@
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
-
----
-
-## 🎓 **AWS Certifications**
-<p align="center">
-  <a href="https://www.credly.com/badges/YOUR-AWS-SAA-CERTIFICATE-LINK">
-    <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="150px">
-  </a>
-  <a href="https://www.credly.com/badges/YOUR-AWS-CCP-CERTIFICATE-LINK">
-    <img src="https://images.credly.com/size/340x340/images/68405d04-2387-47cc-94b3-37b5b0eb95ba/AWS-CloudPractitioner-2020.png" width="150px">
-  </a>
-</p>
-
 ---
 
 ## 🚀 **What I Do**
