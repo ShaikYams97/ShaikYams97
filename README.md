@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikYams97&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikYams97&theme=radical" width="45%" />
-</p>
-
----
-
 ## 🌱 **Currently Exploring**
 - **Advanced Kubernetes**: Helm, ArgoCD, and Kubernetes SIGs  
 - **DevSecOps**: Enhancing security within CI/CD pipelines  
@@ -55,7 +47,7 @@
 
 ## 📬 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/shaik-yams-194097334/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shaikowais47@gmail.com">
