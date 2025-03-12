@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shaik Yams!</h1>  
-<h3 align="center">🚀 Jr. DevOps Engineer | ☁️ AWS Certified | 🌐 Cloud & Automation Enthusiast</h3>  
+<h3 align="center">🚀 DevOps Engineer | ☁️ AWS Certified | 🌐 Cloud & Automation Enthusiast</h3>  
 
 ---
 
