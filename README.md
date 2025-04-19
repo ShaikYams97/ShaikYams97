@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-- 🎯 **Jr. DevOps Engineer @ ProCorp**  
+- 🎯 **DevOps Engineer @ ProCorp**  
 - 🔧 **Expertise**: CI/CD, Infrastructure as Code, Cloud Computing, and Automation  
 - ☁️ **AWS Enthusiast**: Hands-on experience with **EC2, S3, RDS, VPC, IAM, Lambda**, and more  
 - 🌱 **Currently Exploring**: **Advanced Kubernetes (Helm, ArgoCD)** & **DevSecOps**  
